@@ -1,0 +1,6 @@
+framework module Pods_amap_cell_annotation {
+  umbrella header "Pods-amap_cell_annotation-umbrella.h"
+
+  export *
+  module * { export * }
+}
